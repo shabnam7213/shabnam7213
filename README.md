@@ -1,3 +1,17 @@
+# 💫 Hi 👋, I'm Shabnam Singh
+**A passionate Web Developer || Frontend Developer**
+
+Email Me 👉 ✉️ **Shabnamsingh728@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Built an enterprise-style Ticket Management and Analytics System using React to track service requests, manage workflows, and provide performance insights through interactive dashboards.
+- 🌱 **I’m currently learning:** Real Server Working System
+- 🤔 **I’m looking for help with:** My Current Project
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** shabnamsingh728@gmail.com
+- 😄 **Pronouns:** Shabnam Singh
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
+
 # 💫 About Me:
 Ambitious and results-driven Web Developer proficient in HTML, CSS, JavaScript, and modern frameworks, with a proven ability to deliver scalable, high-performance web applications. Adept at problem-solving, optimizing user experiences, and rapidly adapting to emerging technologies. Passionate about driving innovation and contributing to high-impact projects in dynamic teams.”
 
